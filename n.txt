@@ -1,0 +1,22 @@
+cd - change directory
+cd ..  - takes to the main 
+
+cd desktop
+cd <-name of project folder->
+
+* git init - Initialize git on the project 
+* git add .
+- git status
+* git commit -m " <-message-> "
+- git log
+
+* git remote add origin <-link->
+
+git push -u <name> master
+
+git push 
+
+
+
+
+CMD - Commmand prompt 
